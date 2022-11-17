@@ -47,30 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAXdjQ5U_6RhdHOw1d_MqMTmCrod1cXxzk',
-    appId: '1:282975731239:web:0ffb223784ab092ffb9802',
-    messagingSenderId: '282975731239',
-    projectId: 'flutter-expert-7e356',
-    authDomain: 'flutter-expert-7e356.firebaseapp.com',
-    storageBucket: 'flutter-expert-7e356.appspot.com',
-    measurementId: 'G-HSGTC245VB',
+    apiKey: 'AIzaSyB3uEM9VGXONxUXh9dXu33V0ftTALPZQII',
+    appId: '1:1060717381200:web:489ab5b2c31f1671b07355',
+    messagingSenderId: '1060717381200',
+    projectId: 'dicoding-flutter-d1e8e',
+    authDomain: 'dicoding-flutter-d1e8e.firebaseapp.com',
+    storageBucket: 'dicoding-flutter-d1e8e.appspot.com',
+    measurementId: 'G-QZRCY5D1ZH',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD2x5PQvCtrrz8BXcfidwSpg6VsFmzpVOg',
-    appId: '1:282975731239:android:71d5e1e9c034d06ffb9802',
-    messagingSenderId: '282975731239',
-    projectId: 'flutter-expert-7e356',
-    storageBucket: 'flutter-expert-7e356.appspot.com',
+    apiKey: 'AIzaSyCxB1BbRD1cpBNhdCRBvc7AG-KxwjMZxU8',
+    appId: '1:1060717381200:android:ce93fd2a876ac284b07355',
+    messagingSenderId: '1060717381200',
+    projectId: 'dicoding-flutter-d1e8e',
+    storageBucket: 'dicoding-flutter-d1e8e.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCcSYGV9E2l1Gy4OrFIXUfkFPfVKs_IN6o',
-    appId: '1:282975731239:ios:90c465dc1e2e7570fb9802',
-    messagingSenderId: '282975731239',
-    projectId: 'flutter-expert-7e356',
-    storageBucket: 'flutter-expert-7e356.appspot.com',
-    iosClientId: '282975731239-9ek2a7u9ck13vqg4m1uf44n6fhe433o6.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCTIctGc9gIDPzCvYQvjFKHrQ00kqs8re4',
+    appId: '1:1060717381200:ios:a23016b903be9effb07355',
+    messagingSenderId: '1060717381200',
+    projectId: 'dicoding-flutter-d1e8e',
+    storageBucket: 'dicoding-flutter-d1e8e.appspot.com',
+    iosClientId: '1060717381200-9rr1illroopfp19d1s7gu5k66fch8c7t.apps.googleusercontent.com',
     iosBundleId: 'com.dicoding.ditonton',
   );
 }
